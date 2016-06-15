@@ -1,0 +1,9 @@
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Debug\SI-Machine.exe.config
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Debug\SI-Machine.exe
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Debug\SI-Machine.pdb
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI-Machine.csprojResolveAssemblyReference.cache
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI_Machine.Form1.resources
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI_Machine.Properties.Resources.resources
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI-Machine.csproj.GenerateResource.Cache
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI-Machine.exe
+c:\users\blara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Debug\SI-Machine.pdb

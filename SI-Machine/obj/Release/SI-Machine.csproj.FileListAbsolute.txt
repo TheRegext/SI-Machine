@@ -1,0 +1,8 @@
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Release\SI-Machine.exe.config
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Release\SI-Machine.exe
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\bin\Release\SI-Machine.pdb
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Release\SI_Machine.Form1.resources
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Release\SI_Machine.Properties.Resources.resources
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Release\SI-Machine.csproj.GenerateResource.Cache
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Release\SI-Machine.exe
+C:\Users\BLara\documents\visual studio 2015\Projects\SI-Machine\SI-Machine\obj\Release\SI-Machine.pdb
